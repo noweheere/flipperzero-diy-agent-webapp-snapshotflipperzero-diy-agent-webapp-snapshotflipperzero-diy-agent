@@ -1,0 +1,7 @@
+{
+  "name": "Flipper Zero DIY Agent",
+  "description": "An AI-powered notebook for assisting with Flipper Zero hardware projects. Use it to identify components, find datasheets, get pinout information, and analyze wiring diagrams.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
